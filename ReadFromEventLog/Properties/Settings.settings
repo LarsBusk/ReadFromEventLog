@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReadFromEventLog.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LicenseServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">foss6061.foss.net</Value>
+    </Setting>
+    <Setting Name="CsvFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\foss2k1\vol2\grupper\Licenser\GlobalLicens\LicenceCreatorLog.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
